@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+}
+
+.title {
+    background-color: gray;
+    padding: 20px 30px 20px 30px;
+    text-align: center;
+    color: white;
+}
+
+.subtitle {
+    background-color: lightcoral;
+    padding: 12px 10px 13px 10px;
+    text-align: center;
+    color: white;
+}
+
+.text {
+    background-color: khaki;
+    padding: 40px;
+}
+
+.text2 {
+    margin: 50px;
+    color: blueviolet;
+    background-color: aqua;
+    width: 300px;
+    border: 5px solid magenta;
+    padding: 40px;
+}
